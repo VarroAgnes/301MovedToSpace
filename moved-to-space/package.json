@@ -2,7 +2,7 @@
   "name": "moved-to-space",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VarroAgnes.github.io/301MovedToSpace",
+  "homepage": "https://varroagnes.github.io/301MovedToSpace/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
